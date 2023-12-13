@@ -1,12 +1,12 @@
-![image](https://github.com/iprajwallkurs/iprajwallkurs/assets/153601054/41d082b6-d07a-438d-818f-8d38699dc097)
+![image](https://github.com/iprajwallkurs/iprajwallkurs/assets/153601054/93bba7a7-9044-4cb9-bdbc-2a302bf8f5e2)
 
+#                                        Hi 👋 Myself Prajwal L K Urs
+------------------------------------
+### I am a sophomore pursuing my Bachelor's in Artificial Intelligence and machine learning from India 🎓 📃 I am an avid cloud and DevOps enthusiast & also passionate about App Development 💻 📱
+-----------------------------------
+⚫️ 🧑‍💻 I’m currently working on →Cloud Computing and DevOps
 
-### Hi there 👋
-------------------------------------
-I am a sophomore pursuing my Bachelor's in Artificial Intelligence and machine learning from India 🎓 I am an avid cloud and DevOps enthusiast & also passionate about App Development 💻
-------------------------------------
-- 🧑‍💻 I’m currently working on →Cloud Computing and DevOps
-- 🔮 I’m looking to learn → App Development
+⚫️ 🔮 I’m looking to learn → App Development
 <!--
 **iprajwallkurs/iprajwallkurs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
