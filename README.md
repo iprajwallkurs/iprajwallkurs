@@ -4,7 +4,7 @@
 ------------------------------------
 ### I am a sophomore pursuing my Bachelor's in Artificial Intelligence and machine learning from India 🎓 📃 I am an avid cloud and DevOps enthusiast & also passionate about App Development 💻 📱
 -----------------------------------
-⚫️ 🧑‍💻 I’m currently working on →Cloud Computing and DevOps
+⚫️ 🧑‍💻 I’m currently working on →Cloud Native and DevOps
 
 ⚫️ 🔮 I’m looking to learn → App Development
 <!--
