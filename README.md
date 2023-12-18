@@ -1,4 +1,5 @@
-![image](https://github.com/iprajwallkurs/iprajwallkurs/assets/153601054/93bba7a7-9044-4cb9-bdbc-2a302bf8f5e2)
+![image](https://github.com/iprajwallkurs/iprajwallkurs/assets/153601054/340b039e-8238-4166-bc84-e28d58c75d6e)
+
 
 #                                        Hi 👋 Myself Prajwal L K Urs
 ------------------------------------
@@ -7,17 +8,11 @@
 ⚫️ 🧑‍💻 I’m currently working on →Cloud Native and DevOps
 
 ⚫️ 🔮 I’m looking to learn → App Development
-<!--
-**iprajwallkurs/iprajwallkurs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-----------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iprajwallkurs&show_icons=true&theme=radical)                
+
+
+
+
