@@ -11,7 +11,7 @@
 
 -----------------------------------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iprajwallkurs&showicons=true&theme=radical)                
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&showicons=true&theme=radical)                
 
 
 
