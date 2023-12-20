@@ -3,7 +3,7 @@
 
 #                                        Hi 👋 Myself Prajwal L K Urs
 ------------------------------------
-### I am a sophomore pursuing my Bachelor's in Artificial Intelligence and machine learning from India 🎓 📃 I am an avid cloud and DevOps enthusiast & also passionate about App Development 💻 📱
+### In Bangalore's heart, where code takes flight, A sophomore soars, bathed in AI's light. With clouds as his canvas, and DevOps as his guide, He crafts digital dreams, where pixels reside. A tech-wizard he'll be, in this silicon age, His mind a forge, where futures engage.
 -----------------------------------
 ⚫️ 🧑‍💻 I’m currently working on →Cloud Native and DevOps
 
