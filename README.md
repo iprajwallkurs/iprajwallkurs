@@ -9,7 +9,7 @@
 
 ⚫️ 🔮 I’m looking to learn → App Development
 
-⚫️ ⚛️ Enthusiastic about Quantum Mechanics 
+⚫️ ⚛️ Enthusiastic about → Quantum Mechanics 
 
 -----------------------------------
 
