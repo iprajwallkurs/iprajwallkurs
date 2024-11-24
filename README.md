@@ -3,15 +3,7 @@
 
 # Hi there, I'm Prajwal L K Urs  🌌
 
-### In the vibrant heart of Bangalore, where code takes flight, A sophomore ascends, bathed in AI's radiant light. With clouds as my canvas, DevOps as my guide, and Android code flowing like a tide, I shape digital dreams where endless possibilities reside. A tech sorcerer in this silicon age, My mind is a forge, where the future takes the stage.
-
-
----
-
-### 🌟 About Me
-- ⚙️ I’m currently working on **Cloud Native and DevOps**
-- 📱 I’m looking to learn **App Development**
-- 🧠 Enthusiastic about **Quantum Mechanics**
+## I'm an aspiring Android developer passionate about creating intuitive and engaging mobile applications. With a strong drive to learn and grow, I’m on a journey to turn ideas into impactful projects.
 
 ---
 
@@ -27,18 +19,9 @@
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwallkurs/)
-[![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prajwallkurs)
+[![X](https://img.shields.io/badge/-X%20-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prajwallkurs)
 [![Hashnode](https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white)](https://prajwallkurs.hashnode.dev/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prajwallkurs/)
-
----
-
-
-
-### 🎯 Goals for 2024
-- Contribute to open-source projects.
-- Master app development and release a personal project.
-- Deep dive into Quantum Computing and its applications.
+[![Instagram](https://img.shields.io/badge/Instagram-%23F77737.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prajwallkurs/)
 
 ---
 
