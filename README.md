@@ -19,7 +19,7 @@
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwallkurs/)
-[![X](https://img.shields.io/badge/-X%20-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prajwallkurs)
+[![X](https://img.shields.io/badge/-X(TWITTER)%20-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prajwallkurs)
 [![Hashnode](https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white)](https://prajwallkurs.hashnode.dev/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23F77737.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prajwallkurs/)
 
