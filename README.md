@@ -4,9 +4,7 @@
 # Hi there, I'm Prajwal L K Urs  🌌
 
 ## I'm an aspiring Android developer passionate about creating intuitive and engaging mobile applications. With a strong drive to learn and grow, I’m on a journey to turn ideas into impactful projects.
-
 ---
-
 ### 📊 GitHub Stats
 
 <div align="center">
