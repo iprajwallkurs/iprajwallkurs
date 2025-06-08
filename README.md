@@ -8,8 +8,8 @@
 # 💻 Tech Stack:
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iprajwallkurs&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=iprajwallkurs&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iprajwallkurs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=iprajwallkurs&theme=dark&hide_border=false&include_all_commits=true&count_private=true) <br/>
+![](https://nirzak-streak-stats.vercel.app/?user=iprajwallkurs&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iprajwallkurs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 💡 Inspiration
 
