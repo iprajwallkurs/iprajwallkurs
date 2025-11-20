@@ -1,6 +1,6 @@
 #  About Me :
 
-📱 Currently working on **Native Android Development**<br>☁️  Planning to learn **IOS Development**<br>🤖  Interested in **Artificial Intelligence**
+📱 Currently working on **Native Android Development**<br>☁️  Planning to learn **IOS Development**<br>🤖  Interested in **Artificial Intelligence & Machine Learning**
 
 ## 🌐 Socials :
 
