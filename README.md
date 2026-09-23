@@ -1,19 +1,49 @@
-#  About Me :
+<div align="center">
 
-📱 Currently working on **Native Android Development**<br>☁️  Planning to learn **IOS Development**<br>🤖  Interested in **Artificial Intelligence & Machine Learning**
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp4M3ZueWZ3OHphcWhnZnYwbWc3czdydWkzbWw4cWRiOWx2a2R0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="150px" style="object-fit: cover; border-radius: 6px; margin-bottom: 24px;" alt="Tech Animation" />
 
-## 🌐 Socials :
+# Prajwal L K Urs
+### Software Engineer · Native Mobile, AI & ML, & Quantitative Systems
+<p>Building high-performance native applications, machine learning pipelines, and computational frameworks.</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/prajwallkurs/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwallkurs/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prajwallkurs) 
-
-# 💻 Tech Stack :
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-## 💡 Inspiration :
-
-*"The people who are crazy enough to think they can change the world are the ones who do."*  
-  **Steven Paul Jobs**
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iprajwallkurs&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## Focus
+
+* **Native Mobile**
+  Developing high-performance, responsive applications for Android and iOS using Kotlin, Jetpack Compose, Swift, and SwiftUI.
+* **AI & Machine Learning**
+  Building machine learning systems, computer vision models, and retrieval-augmented generation pipelines using Python, TensorFlow, and PyTorch.
+* **Quantitative Computing**
+  Exploring algorithmic modeling, quantitative finance, and computational systems with high-performance tooling.
+
+---
+
+## Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C++, Java, Rust, Kotlin, Swift |
+| **Mobile & UI** | Jetpack Compose, SwiftUI |
+| **AI & ML** | TensorFlow, Keras, PyTorch, RAG Pipelines, Qiskit |
+| **Infrastructure** | AWS, Firebase, Docker, Vercel |
+
+---
+
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwallkurs/) 
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/prajwallkurs) 
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/prajwallkurs/)
+
+</div>
+
+---
+
+<div align="center">
+<small>© 2026 Prajwal L K Urs. All rights reserved.</small>
+</div>
