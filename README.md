@@ -5,10 +5,10 @@
   <tr>
   <td align="center">
     <h1 style="color: #F3F4F6; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 800; letter-spacing: -0.025em; margin: 0; font-size: 34px;">
-      PRAJWAL L K URS
+      Prajwal L K Urs
     </h1>
     <p style="color: #10B981; font-family: 'Courier New', Courier, monospace; font-size: 14px; font-weight: 600; letter-spacing: 0.12em; margin-top: 8px; margin-bottom: 16px;">
-      // SOFTWARE ENGINEER &middot; NATIVE MOBILE &middot; AI/ML &middot; QUANTITATIVE COMPUTING
+       SOFTWARE ENGINEER &middot; NATIVE MOBILE &middot; AI/ML &middot; QUANTITATIVE COMPUTING
     </p>
     <p style="color: #9CA3AF; font-size: 15px; max-width: 680px; line-height: 1.6; margin: 0 auto 16px auto;">
       Engineering high-performance native applications, low-latency machine learning models, and quantitative computational systems with tactical precision.
@@ -78,5 +78,5 @@
 <br>
 
 <div align="center">
-<small style="color: #6B7280; font-family: 'Courier New', Courier, monospace;">// SYSTEM STATUS: OPERATIONAL &middot; © 2026 PRAJWAL L K URS. ALL RIGHTS RESERVED.</small>
+<small style="color: #6B7280; font-family: 'Courier New', Courier, monospace;"> SYSTEM STATUS: OPERATIONAL &middot; © 2026 PRAJWAL L K URS. ALL RIGHTS RESERVED.</small>
 </div>
