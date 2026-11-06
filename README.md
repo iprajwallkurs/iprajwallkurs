@@ -8,13 +8,13 @@
       PRAJWAL L K URS
     </h1>
     <p style="color: #10B981; font-family: 'Courier New', Courier, monospace; font-size: 14px; font-weight: 600; letter-spacing: 0.12em; margin-top: 8px; margin-bottom: 16px;">
-       SOFTWARE ENGINEER &middot; NATIVE MOBILE &middot; AI/ML &middot; QUANTITATIVE COMPUTING
+      // SOFTWARE ENGINEER &middot; NATIVE MOBILE &middot; AI/ML &middot; QUANTITATIVE COMPUTING
     </p>
     <p style="color: #9CA3AF; font-size: 15px; max-width: 680px; line-height: 1.6; margin: 0 auto 16px auto;">
       Engineering high-performance native applications, low-latency machine learning models, and quantitative computational systems with tactical precision.
     </p>
     <p style="color: #D1D5DB; font-style: italic; font-size: 13px; margin: 0;">
-      "Your time is limited, so don't waste it living someone else's life." —  Steven Paul Jobs.
+      "Your time is limited, so don't waste it living someone else's life." — Steven Paul Jobs
     </p>
   </td>
   </tr>
@@ -67,11 +67,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-09090B?style=for-the-badge&logo=linkedin&logoColor=10B981&color=09090B&labelColor=18181B)](https://www.linkedin.com/in/prajwallkurs/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-09090B?style=for-the-badge&logo=linkedin&logoColor=10B981&labelColor=18181B)](https://www.linkedin.com/in/prajwallkurs/)
 &nbsp;&nbsp;&nbsp;
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&color=09090B&labelColor=18181B)](https://x.com/prajwallkurs)
+[![X](https://img.shields.io/badge/Twitter-09090B?style=for-the-badge&logo=x&logoColor=white&labelColor=18181B)](https://x.com/prajwallkurs)
 &nbsp;&nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-09090B?style=for-the-badge&logo=instagram&logoColor=F59E0B&color=09090B&labelColor=18181B)](https://www.instagram.com/prajwallkurs/)
+[![Instagram](https://img.shields.io/badge/Instagram-09090B?style=for-the-badge&logo=instagram&logoColor=F59E0B&labelColor=18181B)](https://www.instagram.com/prajwallkurs/)
 
 </div>
 
