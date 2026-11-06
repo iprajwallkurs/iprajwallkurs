@@ -54,7 +54,7 @@
 
 | Domain | Core Technologies & Tooling |
 | :--- | :--- |
-| **Languages** | `C++` &nbsp;&bull;&nbsp; `Python` &nbsp;&bull;&nbsp; `Kotlin` &nbsp;&bull;&nbsp; `Swift` &nbsp;&bull;&nbsp; `Rust` &nbsp;&bull;&nbsp; `Java` |
+| **Languages** | `C++` &nbsp;&bull;&nbsp; `Python` &nbsp;&bull;&nbsp; `Kotlin` &nbsp;&bull;&nbsp; `Swift` &nbsp;&bull;&nbsp; `Rust` |
 | **Mobile & UI** | `Jetpack Compose` &nbsp;&bull;&nbsp; `SwiftUI` &nbsp;&bull;&nbsp; `Coroutines` &nbsp;&bull;&nbsp; `Combine` |
 | **AI / ML** | `TensorFlow` &nbsp;&bull;&nbsp; `PyTorch` &nbsp;&bull;&nbsp; `Keras` &nbsp;&bull;&nbsp; `RAG Pipelines` &nbsp;&bull;&nbsp; `Qiskit` |
 | **Quantitative & Infra** | `Algorithmic Modeling` &nbsp;&bull;&nbsp; `Options Pricing` &nbsp;&bull;&nbsp; `AWS` &nbsp;&bull;&nbsp; `Docker` &nbsp;&bull;&nbsp; `Firebase` |
