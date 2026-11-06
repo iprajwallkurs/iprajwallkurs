@@ -14,7 +14,7 @@
       Engineering high-performance native applications, low-latency machine learning models, and quantitative computational systems with tactical precision.
     </p>
     <p style="color: #D1D5DB; font-style: italic; font-size: 13px; margin: 0;">
-      "The only way to do great work is to love what you do." — Steve Jobs
+      "Your time is limited, so don't waste it living someone else's life." — Steve Jobs
     </p>
   </td>
   </tr>
